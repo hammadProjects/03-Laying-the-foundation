@@ -1,0 +1,23 @@
+{
+  "name": "ep-02",
+  "version": "1.0.0",
+  "description": "There is no description. ",
+  "main": "app.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "author": "Muhammad Hammad",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^1.12.3"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "browsersList": [
+    "last 5 version"
+  ]
+}
